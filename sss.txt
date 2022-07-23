@@ -1,0 +1,1 @@
+value="<?php echo random_string('numberic') . date('dmy'); ?>
